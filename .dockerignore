@@ -1,0 +1,11 @@
+# Ignorer les fichiers lourds ou inutiles
+*.csv
+*.ipynb
+*.json
+*.pkl
+*.jpg
+
+# Ignorer tout le dossier assets (quel que soit son contenu)
+assets/
+
+
