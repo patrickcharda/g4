@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_g4.jpg" width="150" title="Project Logo">
+  <img src="logo_g4.jpg" width="80" title="Project Logo">
 </p>
 
 # MVP : App "G4 Detection Fraude"
