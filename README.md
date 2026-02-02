@@ -21,14 +21,14 @@ The app has 2 modes :
 
 Unit tests can be done by 2 ways :
 
-    - a) automatic generation of a fraud or a legitime transaction by clicking a button that triggers a selection in an existing test dataset
+  - a) automatic generation of a fraud or a legitime transaction by clicking a button that triggers a selection in an existing test dataset
 
     
     ![Fraud_screenshot](DetectedFraud.png)
 
     ![FraudDetails_screenshot](DetectionDetails.png)
 
-    - b) get a json file that contains a fraud or a legit
+  - b) get a json file that contains a fraud or a legit
 
 ## Bulk test
 
