@@ -27,7 +27,8 @@ Unit tests can be done by 2 ways :
 
 ## Bulk test
 
-The user is able to pick a csv file containing a formatted dataset of online transactions.
+The user is able to pick a csv file containing a formatted dataset of online transactions. 
+Try it with X_test_app.csv (look at Assets section)
 
 ## Assets
 
