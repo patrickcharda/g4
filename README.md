@@ -23,8 +23,13 @@ Unit tests can be done by 2 ways :
 
     - a) automatic generation of a fraud or a legitime transaction by clicking a button that triggers a selection in an existing test dataset
 
-    - b) get a json file that contains a fraud or a legit
-![Fraud_screenshot](DetectedFraud.png)
+    
+  ![Fraud_screenshot](DetectedFraud.png)
+
+  ![FraudDetails_screenshot](DetectionDetails.png)
+
+  - b) get a json file that contains a fraud or a legit
+
 ## Bulk test
 
 The user is able to pick a csv file containing a formatted dataset of online transactions. 
