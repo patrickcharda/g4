@@ -2,6 +2,7 @@
   <img src="logo_g4.jpg" width="80" title="Project Logo">
 </p>
 
+![App.screenshot](SinglePageApplication.png)
 # MVP : App "G4 Detection Fraude"
 
 This MVP  of a fraud detection learning machine model has been developed by 3 data scientist students - Selma Rochet, Sébastien Lartigue, Patrick Chardavoine - in the context of a bootcamp provided by Jedha training center.
